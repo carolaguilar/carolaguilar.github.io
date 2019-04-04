@@ -1,7 +1,7 @@
 ---
 layout: post
 title: xxx're up and running!
-published: false
+published: true
 ---
 
 Chào các bạn Mình sửa tí thôi 
